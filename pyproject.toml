@@ -22,7 +22,7 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
 dependencies = [
-    "cryptography >= 39.0.0",
+    "crpt-graph==42.0.5+epic.1",
     "typing_extensions >= 4.5.0",
 ]
 
